@@ -38,16 +38,21 @@
 
 </br>
 
-init : 초기화  
-feat : 새로운 기능 추가  
-update: 기능 수정  
-fix : 버그 수정  
-docs : 문서 수정  
-style : 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우, linting  
-design: 레이아웃 수정, UX 또는 UI에 대한 커밋  
-refactor : 코드 리팩터링  
-test : 테스트 코드, 리팩터링 테스트 코드 추가  
-chore : 빌드 업무 수정, 패키지 매니저 수정, 그 외 자잘한 수정에 대한 커밋   
+- init: 초기화  
+- feat: 새로운 기능 추가  
+- update: 기능 수정  
+- fix: 버그 수정  
+- docs: 문서 수정  
+- style: 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우, linting  
+- design: 레이아웃 수정, UX 또는 UI에 대한 커밋  
+- refactor: 코드 리팩터링  
+- chore: 빌드 업무 수정, 패키지 매니저 수정, 그 외 자잘한 수정에 대한 커밋   
+
+### ***주의***
+```
+콜론(:)은 왼쪽에 붙여서 사용하자.
+feat: 로그인 기능 구현 <---- feat 옆에 콜론을 붙이자! 
+```
 </details>
 
 
@@ -56,17 +61,29 @@ chore : 빌드 업무 수정, 패키지 매니저 수정, 그 외 자잘한 수�
 ## 개발기간
 - 2024.04.01 ~ 2024.04.30 (1달 내 완료 목표)
 
-## 구성원
+## 구성원(이름순)
 
 <table>
 	<tbody>
 		<tr>
-    			<th><img width="150px" src="https://github.com/pjiny92.png" alt="임성현"/></th>
-			<th><img width="150px" src="https://github.com/sksrpf1126.png" alt="임성현"/></th>
+			<th><img width="150px" src="https://github.com/RbCream.png" alt="김헌종"/></th>
+			<th><img width="150px" src="https://github.com/pjiny92.png" alt="박혜진"/></th>
+			<th><img width="150px" src="https://github.com/ha2way.png" alt="박현아"/></th>
 		</tr>
 		<tr>
-    			<th><a href="https://github.com/pjiny92" target="_blank">박혜진</a></th>
+			<th><a href="https://github.com/RbCream" target="_blank">김헌종</a></th>
+			<th><a href="https://github.com/pjiny92" target="_blank">박혜진</a></th>
+			<th><a href="https://github.com/ha2way" target="_blank">박현아</a></th>
+		</tr>
+		<tr>
+			<th><img width="150px" src="https://github.com/wookyyyy.png" alt="정욱현"/></th>
+			<th><img width="150px" src="https://github.com/sksrpf1126.png" alt="임성현"/></th>
+			<th><img width="150px" src="https://github.com/SuRa0227.png" alt="최석"/></th>
+		</tr>
+		<tr>
+			<th><a href="https://github.com/wookyyyy" target="_blank">정욱현</a></th>
 			<th><a href="https://github.com/sksrpf1126" target="_blank">임성현</a></th>
+			<th><a href="https://github.com/SuRa0227" target="_blank">최석</a></th>
 		</tr>
 	</tbody>
 </table>
